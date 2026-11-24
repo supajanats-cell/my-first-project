@@ -1,37 +1,30 @@
-# สวัสดีครับ, ผมชื่อ Supajanat Sukkatt 👋
+# 👋 Hello, I'm Supajanat Sukkatt!
 
-**นิสิตชั้นปีที่ 2 สาขาวิชาเทคโนโลยีสารสนเทศ (IT)**  
-**คณะศิลปศาสตร์และวิทยาศาสตร์ มหาวิทยาลัยเกษตรศาสตร์ วิทยาเขตกำแพงแสน (KU KPS)**  
+**2nd-Year Information Technology Student**  
+Faculty of Liberal Arts and Science, Kasetsart University (Kamphaeng Saen Campus)
 
-กำลังศึกษาและฝึกฝนทักษะด้านการพัฒนาซอฟต์แวร์และการจัดการข้อมูล ชอบเรียนรู้เทคโนโลยีใหม่ๆ และนำมาต่อยอดสร้างเป็นโปรเจกต์จริง
+[![University](https://img.shields.io/badge/KU_KPS-Information_Technology-006664?style=flat-square&logo=academia&logoColor=white)](https://it.flas.kps.ku.ac.th)
+[![Location](https://img.shields.io/badge/Location-Nakhon_Pathom,_Thailand-blue?style=flat-square&logo=googlemaps&logoColor=white)]()
+[![Email](https://img.shields.io/badge/Contact-supajanat.s@ku.th-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:supajanat.s@ku.th)
 
----
-
-### 🚀 เกี่ยวกับผม (About Me)
-- 🎓 การศึกษา: **กำลังศึกษาอยู่ชั้นปีที่ 2 สาขาเทคโนโลยีสารสนเทศ (IT) คณะศิลปศาสตร์และวิทยาศาสตร์ มก. กพส.**
-- 🔭 ปัจจุบันกำลังทำ: **[โปรเจกต์รายวิชา หรือ โปรเจกต์ส่วนตัวที่กำลังทำอยู่]**
-- 🌱 กำลังเรียนรู้เรื่อง: **[วิชาหรือเทคโนโลยีที่กำลังเรียนในเทอมนี้ เช่น Web Development, Database, OOP]**
-- 💬 ถามผมได้เกี่ยวกับ: **[ทักษะที่คุณถนัด เช่น Python, Java, HTML/CSS, SQL]**
-- 📫 ช่องทางติดต่อ: Supajanat.s@ku.th
+</div>
 
 ---
 
-### 🛠️ ทักษะและเครื่องมือ (Tech Stack)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+### 👨‍💻 About Me
+I am currently a sophomore majoring in **Information Technology (IT)** at **Kasetsart University (KPS Campus)**. I enjoy turning ideas into code and building practical software solutions. This GitHub profile serves as my digital workspace for university coursework, coding exercises, and personal projects.
+
+* 🔭 **Current Focus:** Strengthening core programming fundamentals, Web Development, and Database design.
+* 🌱 **Currently Learning:** Object-Oriented Programming (OOP), Data Structures, and Full-Stack Web Technologies.
+* 🤝 **Open to:** Study groups, coding collaborations, and tech discussions.
 
 ---
 
-### 📌 โปรเจกต์ที่น่าสนใจ (Featured Projects)
-- **[ชื่อโปรเจกต์ที่ 1](ลิงก์ไปยัง Repo ของโปรเจกต์)** - คำอธิบายสั้นๆ ว่าโปรเจกต์นี้ทำอะไรได้บ้าง (เช่น โปรเจกต์จบรายวิชา...)
-- **[ชื่อโปรเจกต์ที่ 2](ลิงก์ไปยัง Repo ของโปรเจกต์)** - คำอธิบายสั้นๆ ว่าโปรเจกต์นี้ทำอะไรได้บ้าง
+### 🛠️ Tech Stack & Tools
 
----
-
-### 📊 สถิติ GitHub (GitHub Stats)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ใส่Usernameของคุณ&show_icons=true&theme=radical)
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
+| **Web Frontend** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
+| **Database** | ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white) |
+| **Tools & VCS** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](
